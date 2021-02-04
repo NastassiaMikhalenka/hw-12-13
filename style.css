@@ -1,0 +1,23 @@
+*{
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Hachi Maru Pop', cursive;
+};
+
+
+h2{
+	text-align: center;
+	background-color: lightgrey;
+	box-shadow: 0 0 10px 10px white inset;
+}
+
+.contacts{
+	padding-bottom: 30px;
+	border-bottom: grey solid 2px;
+}
+
+.buttons form{
+	padding-bottom: 30px;
+
+
+}
